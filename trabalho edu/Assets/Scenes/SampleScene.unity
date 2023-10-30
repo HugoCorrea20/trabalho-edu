@@ -2905,9 +2905,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   assetReference:
     m_AssetGUID: c2d065393f094c14e926f711f95f2db1
-    m_SubObjectName: CHARACTER
-    m_SubObjectType: UnityEngine.Mesh, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
+    m_SubObjectName: 
+    m_SubObjectType: 
     m_EditorAssetChanged: 0
   spawnPoint: {fileID: 1470055599}
 --- !u!65 &1470055597
@@ -2921,8 +2920,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 59.39615, y: 14.821167, z: 92.601746}
-  m_Center: {x: 202.93095, y: -6.9105835, z: 92.25302}
+  m_Size: {x: 62.552643, y: 14.821167, z: 225.65839}
+  m_Center: {x: 201.3527, y: -6.9105835, z: 53.032104}
 --- !u!65 &1470055598
 BoxCollider:
   m_ObjectHideFlags: 0
