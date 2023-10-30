@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 0c63ba15c3f1bcc4ba4669fcdc53e9cf
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 5492fef2f3830c443908cb67c7b3058e
+    m_Address: Assets/prefabs/Fishka_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a18e54139f295a24fbdc143db71ff20d, type: 2}
   m_SchemaSet:
