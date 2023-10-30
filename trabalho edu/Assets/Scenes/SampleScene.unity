@@ -623,7 +623,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 0daff0225fd2b774c848a5fddc99eb6e, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0daff0225fd2b774c848a5fddc99eb6e, type: 3}
       propertyPath: m_LocalScale.x
@@ -1442,7 +1442,7 @@ Transform:
   - {fileID: 744780599}
   - {fileID: 575852405}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
@@ -2931,7 +2931,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1470055595}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 267.89145, y: 32.959946, z: 104.91045}
@@ -2949,7 +2949,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1518895960
 GameObject:
@@ -3204,63 +3204,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068127964}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &2099223353
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 55.70593
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 151.61652
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -10.480146
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
-      propertyPath: m_Name
-      value: MODELO FINAL
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c2d065393f094c14e926f711f95f2db1, type: 3}
 --- !u!1 &2122134863
 GameObject:
   m_ObjectHideFlags: 3
@@ -3521,7 +3464,7 @@ Transform:
   - {fileID: 1306437884}
   - {fileID: 963194228}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2135830348
 MonoBehaviour:
