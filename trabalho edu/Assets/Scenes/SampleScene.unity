@@ -2904,7 +2904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assetReference:
-    m_AssetGUID: 5492fef2f3830c443908cb67c7b3058e
+    m_AssetGUID: 0ac79c9eceb257b43bd8d351b83f1a5a
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
