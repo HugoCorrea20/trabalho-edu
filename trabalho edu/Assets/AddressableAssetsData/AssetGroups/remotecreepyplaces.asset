@@ -37,6 +37,10 @@ MonoBehaviour:
     m_Address: Assets/prefabs/GameObject.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: e5a26aa0cf3b8624bb01eb270454396f
+    m_Address: Assets/prefabs/shrek.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a18e54139f295a24fbdc143db71ff20d, type: 2}
   m_SchemaSet:
