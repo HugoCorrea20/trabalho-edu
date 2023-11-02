@@ -3225,7 +3225,7 @@ MonoBehaviour:
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  spawnPoint: {fileID: 0}
+  spawnPoint: {fileID: 1902454666}
 --- !u!65 &1902454664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3237,8 +3237,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 96.632965, y: 30.570175, z: 220.25597}
-  m_Center: {x: -168.3756, y: 4.516136, z: -60.662224}
+  m_Size: {x: 96.632965, y: 30.570175, z: 225.31862}
+  m_Center: {x: -168.3756, y: 4.516136, z: -63.19355}
 --- !u!65 &1902454665
 BoxCollider:
   m_ObjectHideFlags: 0
