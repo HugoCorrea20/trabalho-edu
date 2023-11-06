@@ -17,10 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 165cf1907cb72c143a9e61f1139b4f98
   m_SerializeEntries:
-  - m_GUID: 9374033c5820acb469c099d4c2ab6472
-    m_Address: Assets/prefabs/Fishka_2.fbx
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: c2d065393f094c14e926f711f95f2db1
     m_Address: Assets/prefabs/MODELO FINAL.fbx
     m_ReadOnly: 0
@@ -33,16 +29,16 @@ MonoBehaviour:
     m_Address: Assets/prefabs/Fishka_2.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: b0a0145d11b46ae4899f966291d17bf2
-    m_Address: Assets/prefabs/GameObject.prefab
+  - m_GUID: 9833eeccc9992fe43918fc5ea33cb5d4
+    m_Address: Assets/prefabs/fishka.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e5a26aa0cf3b8624bb01eb270454396f
     m_Address: Assets/prefabs/shrek.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 9833eeccc9992fe43918fc5ea33cb5d4
-    m_Address: Assets/prefabs/fishka.prefab
+  - m_GUID: b0a0145d11b46ae4899f966291d17bf2
+    m_Address: Assets/prefabs/modelofinal.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: b615351a7c8a0fe48b4633d059ec27a2
