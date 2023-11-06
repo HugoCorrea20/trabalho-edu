@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2026,14 +2026,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 967524286}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -194.24564, y: 148.4, z: 332.8}
+  m_LocalRotation: {x: 0.06207525, y: -0.69435483, z: 0.020697698, w: 0.71665174}
+  m_LocalPosition: {x: -124.7, y: 148, z: 290.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 6.76, y: -88.382, z: -3.264}
 --- !u!65 &967524289
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2045,8 +2045,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 97.73421, y: 18.669022, z: 63.212814}
-  m_Center: {x: -11.186348, y: 8.834511, z: -147.1315}
+  m_Size: {x: 200.13419, y: 18.669022, z: 63.909332}
+  m_Center: {x: -62.386475, y: 8.835306, z: -223.35101}
 --- !u!65 &967524290
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2058,8 +2058,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 95.125496, y: 20.162308, z: 98.71005}
-  m_Center: {x: -10.712147, y: 9.581154, z: -67.78761}
+  m_Size: {x: 95.125496, y: 20.162308, z: 200.46938}
+  m_Center: {x: -10.712151, y: 9.581361, z: -92.73738}
 --- !u!1 &977541861
 GameObject:
   m_ObjectHideFlags: 0
@@ -3260,7 +3260,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1902454662}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -349.0074, y: 166.37233, z: 277.21732}
+  m_LocalPosition: {x: -349.0074, y: 152.9, z: 286.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
